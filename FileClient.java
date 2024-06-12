@@ -1,7 +1,12 @@
 import java.net.*;
 import java.io.*;
 
-public class CSNETWKClient
+/* Group Member Names
+Gomez, Dominic Joel
+Soriano, John Angelo
+*/
+
+public class FileClient
 {
 	public static void main(String[] args)
 	{

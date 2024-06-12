@@ -1,7 +1,12 @@
+/* Group Member Names
+Gomez, Dominic Joel
+Soriano, John Angelo
+*/
+
 import java.net.*;
 import java.io.*;
 
-public class CSNETWKServer
+public class FileServer
 {
 	public static void main(String[] args)
 	{
